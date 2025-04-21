@@ -1,0 +1,14 @@
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/bin/Debug/net9.0/single-responsibility-principle
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/bin/Debug/net9.0/single-responsibility-principle.deps.json
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/bin/Debug/net9.0/single-responsibility-principle.runtimeconfig.json
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/bin/Debug/net9.0/single-responsibility-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/bin/Debug/net9.0/single-responsibility-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/single-responsibility-principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/single-responsibility-principle.AssemblyInfoInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/single-responsibility-principle.AssemblyInfo.cs
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/single-responsibility-principle.csproj.CoreCompileInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/single-responsibility-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/refint/single-responsibility-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/single-responsibility-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/single-responsibility-principle.genruntimeconfig.cache
+/Users/orhun/Documents/Projects/solid-principles/single-responsibility-principle/obj/Debug/net9.0/ref/single-responsibility-principle.dll
