@@ -1,0 +1,15 @@
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/bin/Debug/net9.0/bad-open-closed-principle
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/bin/Debug/net9.0/bad-open-closed-principle.deps.json
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/bin/Debug/net9.0/bad-open-closed-principle.runtimeconfig.json
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/bin/Debug/net9.0/bad-open-closed-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/bin/Debug/net9.0/bad-open-closed-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.AssemblyInfoInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.AssemblyInfo.cs
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.csproj.CoreCompileInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.sourcelink.json
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/refint/bad-open-closed-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/bad-open-closed-principle.genruntimeconfig.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-open-closed-principle/obj/Debug/net9.0/ref/bad-open-closed-principle.dll
