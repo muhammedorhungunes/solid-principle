@@ -1,0 +1,15 @@
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/bin/Debug/net9.0/bad-single-responsibility-principle
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/bin/Debug/net9.0/bad-single-responsibility-principle.deps.json
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/bin/Debug/net9.0/bad-single-responsibility-principle.runtimeconfig.json
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/bin/Debug/net9.0/bad-single-responsibility-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/bin/Debug/net9.0/bad-single-responsibility-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.AssemblyInfoInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.AssemblyInfo.cs
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.csproj.CoreCompileInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.sourcelink.json
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/refint/bad-single-responsibility-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/bad-single-responsibility-principle.genruntimeconfig.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-single-responsibility-principle/obj/Debug/net9.0/ref/bad-single-responsibility-principle.dll

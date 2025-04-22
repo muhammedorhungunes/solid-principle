@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "bad-single-responsibility-principle/1.0.0": {
+        "runtime": {
+          "bad-single-responsibility-principle.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bad-single-responsibility-principle/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
