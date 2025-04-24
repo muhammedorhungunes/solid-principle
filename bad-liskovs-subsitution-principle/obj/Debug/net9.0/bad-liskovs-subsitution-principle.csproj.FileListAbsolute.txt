@@ -1,0 +1,15 @@
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/bin/Debug/net9.0/bad-liskovs-subsitution-principle
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/bin/Debug/net9.0/bad-liskovs-subsitution-principle.deps.json
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/bin/Debug/net9.0/bad-liskovs-subsitution-principle.runtimeconfig.json
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/bin/Debug/net9.0/bad-liskovs-subsitution-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/bin/Debug/net9.0/bad-liskovs-subsitution-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.AssemblyInfoInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.AssemblyInfo.cs
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.csproj.CoreCompileInputs.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.sourcelink.json
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/refint/bad-liskovs-subsitution-principle.dll
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.pdb
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/bad-liskovs-subsitution-principle.genruntimeconfig.cache
+/Users/orhun/Documents/Projects/solid-principles/bad-liskovs-subsitution-principle/obj/Debug/net9.0/ref/bad-liskovs-subsitution-principle.dll
